@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-gateway" />
+        <module name="spring-cloud-gateway-core" />
+        <module name="spring-cloud-gateway-mvc" />
+        <module name="spring-cloud-gateway-webflux" />
+        <module name="spring-cloud-starter-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="my-gateway" target="1.5" />
+      <module name="spring-cloud-gateway-core" target="1.5" />
+      <module name="spring-cloud-gateway-dependencies" target="1.5" />
+      <module name="spring-cloud-gateway-mvc" target="1.5" />
+      <module name="spring-cloud-gateway-webflux" target="1.5" />
+      <module name="spring-cloud-starter-gateway" target="1.5" />
+      <module name="tim-gateway" target="1.5" />
+      <module name="timgateway" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

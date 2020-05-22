@@ -1,0 +1,9 @@
+org\springframework\cloud\gateway\webflux\ProxyExchange$BodyGrabber.class
+org\springframework\cloud\gateway\webflux\ProxyExchange$1.class
+org\springframework\cloud\gateway\webflux\ProxyExchange.class
+org\springframework\cloud\gateway\webflux\config\ProxyProperties.class
+org\springframework\cloud\gateway\webflux\ProxyExchange$BodySender.class
+org\springframework\cloud\gateway\webflux\config\ProxyExchangeArgumentResolver.class
+META-INF\spring-autoconfigure-metadata.properties
+META-INF\spring-configuration-metadata.json
+org\springframework\cloud\gateway\webflux\config\ProxyResponseAutoConfiguration.class

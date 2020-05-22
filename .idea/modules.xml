@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-gateway/my-gateway.iml" filepath="$PROJECT_DIR$/my-gateway/my-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway-core/spring-cloud-gateway-core.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway-core/spring-cloud-gateway-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway-dependencies/spring-cloud-gateway-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway-dependencies/spring-cloud-gateway-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway-mvc/spring-cloud-gateway-mvc.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway-mvc/spring-cloud-gateway-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway-webflux/spring-cloud-gateway-webflux.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway-webflux/spring-cloud-gateway-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-gateway/spring-cloud-starter-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-gateway/spring-cloud-starter-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timgateway.iml" filepath="$PROJECT_DIR$/timgateway.iml" />
+    </modules>
+  </component>
+</project>
